@@ -1,0 +1,6 @@
+dam1 y dam2 
+el programa partiendo de los ficheros dam1 y dam2 tenemos que obtener
+un fichero que se llame numeroAlumnos.txt que contenga
+lo guardamos en arrayList
+el numero de alumnos de dam 1 es:
+el numero de alumnos de dam 2 es:
